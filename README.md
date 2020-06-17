@@ -4,10 +4,9 @@ Master 1 Sciences et Technologie du Logiciel (Sorbonne Université )
 UE d'Ouverture  
 Codé en Ocaml  
 Réalisé par : 
-	Hichem Rami AIT EL HARA 
-				
+
+	Hichem Rami AIT EL HARA 			
 	GHOUT Nassima 
-	
 	AHMADI SIMAB Shokoufeh 
 
 Responsables de l'UE :
