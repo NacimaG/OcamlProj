@@ -1,8 +1,9 @@
 # PROJET :: Compression des arbres binaire 
 Master 1 Sciences et Technologie du Logiciel (Sorbonne Université )
-2019/2020
-UE d'Ouverture  
-Codé en Ocaml  
+
+UE d'Ouverture 2019/2020
+Le projet consiste en la création d'une nouvelle structure de données qui compresse les arbres binaires dans le but d'obenir des arbres plus optimaux qui occupe moins de place en mémoire.LE projet est entièrement codé en Ocaml. On a utilisé "Gnuplot" pour dessiner les graphes.
+
 Réalisé par : 
 
 	Hichem Rami AIT EL HARA 			
