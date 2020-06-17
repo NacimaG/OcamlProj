@@ -10,15 +10,16 @@ Réalisé par :
 	AHMADI SIMAB Shokoufeh 
 
 Responsables de l'UE :
-				Antoine GENITRINI
-				Emmannuel CHAILLOUX 
+
+	Antoine GENITRINI
+	Emmannuel CHAILLOUX 
 
 Le projet est composé en 5 fichier différents 
+
 	--> Abr.ml :: concerne la partie de "ArbreBinaire de Recherche simple"
 	--> Acl.ml :: Arbre binaire compressé avec des liste  (compression et recherche )
 	--> Acm.ml :: Arbre binaire compressé avec des map (Compression et recherche )
 	--> AcmlC :: Arbre binaire compressé utlisant des ( map transformé en abr acm )
-
 	--> Exp.ml :: La partie étude expérimentale  
 			=> on y retrouve les différents tests qu'on a effectué 
 			   pour la compression et recherche 
@@ -26,5 +27,5 @@ Le projet est composé en 5 fichier différents
 
 
 Exécution
-		$ ocamlc -o main Abr.ml Acl.ml Acm.ml AcmC.ml Exp.ml
-		$ ./main
+	$ ocamlc -o main Abr.ml Acl.ml Acm.ml AcmC.ml Exp.ml
+	$ ./main
